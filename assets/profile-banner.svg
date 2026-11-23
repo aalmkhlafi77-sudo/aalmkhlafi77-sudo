@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Abdullah Almkhlafi — Digital Product Engineering</title>
+<desc id="desc">Navy and blue profile banner with geometric grid and professional title</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071426"/><stop offset=".57" stop-color="#102849"/><stop offset="1" stop-color="#123e6b"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8cc8ff" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<circle cx="1040" cy="140" r="185" fill="none" stroke="#60a5fa" stroke-opacity=".17" stroke-width="2"/>
+<circle cx="1040" cy="140" r="125" fill="none" stroke="#60a5fa" stroke-opacity=".22" stroke-width="2"/>
+<circle cx="1040" cy="140" r="64" fill="none" stroke="#60a5fa" stroke-opacity=".3" stroke-width="2"/>
+<path d="M910 140h260M1040 10v260" stroke="#60a5fa" stroke-opacity=".12"/>
+<path d="M910 230l50-52 44 30 56-86 52 28" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="66" y="55" width="5" height="191" rx="2" fill="url(#accent)"/>
+<text x="98" y="98" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#7dd3fc" letter-spacing="3">DIGITAL PRODUCT ENGINEERING</text>
+<text x="98" y="166" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" fill="#f8fafc">Abdullah Almkhlafi</text>
+<text x="98" y="210" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#bfdbfe">Web Platforms  /  Interactive Interfaces  /  Business Systems</text>
+<rect x="98" y="237" width="215" height="3" rx="2" fill="url(#accent)"/>
+</svg>
